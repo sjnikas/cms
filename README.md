@@ -1,1 +1,1 @@
-# cms
+I was curious how content management systems like WordPress and Wix created and deployed content dynamically to a separate URL. I made a little POC application that allowed the creation of dynamic HTML (using the Froala Angula plugin) and then deployed the HTML file as a static site on AWS.
